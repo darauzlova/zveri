@@ -1,0 +1,36 @@
+body{
+	background-color: #E0FFFF;
+	background-image: url(fon.png);
+	background-size: 100%, 100%;
+
+}
+.zagolovok{
+	position: fixed;
+	font-size: 70px;
+	color:#00008B;
+	}
+	.mod1{
+		position: relative;
+		margin-right: 20px;
+		top: 200px;
+		float: left;
+	}
+	.mod2{
+		position: relative;
+		top: 200px;
+	}
+	.kot{
+		position: absolute;
+		left: 725px;
+		top: 200px;
+	}
+	.end{
+		position: sticky;
+		margin-top: 100px;
+	}
+	.mao{
+		position: sticky;
+	}
+	.mod3{
+		position: static;
+	}
